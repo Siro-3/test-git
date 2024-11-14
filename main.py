@@ -7,3 +7,5 @@ print("ciao 2")
 
 y = 11
 print(y)
+
+print("DIO MEDA")
