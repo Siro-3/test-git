@@ -8,4 +8,5 @@ print("ciao 2")
 y = 11
 print(y)
 
-print("DIO MEDA")
+print("DIO MERDA")
+print("DIO MERDA 2")
