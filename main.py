@@ -9,3 +9,4 @@ y = 11
 print(y)
 
 print("DIO MEDA")
+print("dio merda")
